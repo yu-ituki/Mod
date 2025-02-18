@@ -1,3 +1,6 @@
 [submodule "ElinMod"]
 	path = ElinMod
 	url = https://github.com/yu-ituki/ElinMod.git
+[submodule "Mod_AgainstTheStorm"]
+	path = Mod_AgainstTheStorm
+	url = https://github.com/yu-ituki/Mod_AgainstTheStorm.git
