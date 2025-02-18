@@ -1,0 +1,3 @@
+[submodule "ElinMod"]
+	path = ElinMod
+	url = https://github.com/yu-ituki/ElinMod.git
