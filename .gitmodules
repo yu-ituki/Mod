@@ -4,3 +4,6 @@
 [submodule "Mod_AgainstTheStorm"]
 	path = Mod_AgainstTheStorm
 	url = https://github.com/yu-ituki/Mod_AgainstTheStorm.git
+[submodule "Mod_OurAdventurerGuild"]
+	path = Mod_OurAdventurerGuild
+	url = https://github.com/yu-ituki/Mod_OurAdventurerGuild.git
