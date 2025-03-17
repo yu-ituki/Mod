@@ -7,3 +7,6 @@
 [submodule "Mod_OurAdventurerGuild"]
 	path = Mod_OurAdventurerGuild
 	url = https://github.com/yu-ituki/Mod_OurAdventurerGuild.git
+[submodule "Mod_MHWs"]
+	path = Mod_MHWs
+	url = https://github.com/yu-ituki/Mod_MHWs.git
